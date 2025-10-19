@@ -1,8 +1,8 @@
-🎧 Audiobook Recommender System
+# **🎧Audiobook Recommender System**
 
 This project develops an audiobook recommendation system based on data collected from the Ketabrah website. It uses web scraping, data visualization, and machine learning techniques to suggest books tailored to user interests.
 
-📘 Overview
+## 📘Overview
 
 The system analyzes audiobook data — including author, narrator, genre, year, price, duration, and user ratings — to recommend books similar to those a user likes.
 
@@ -18,7 +18,7 @@ Content-based recommender system using TF-IDF and cosine similarity
 
 Interactive web app built with Streamlit
 
-🧠 Technologies Used
+## 🧠Technologies Used
 
 Python, BeautifulSoup, Octoparse
 
@@ -28,7 +28,7 @@ Scikit-learn for TF-IDF and cosine similarity
 
 Streamlit for deployment
 
-⚙️ How to Run
+## ⚙️How to Run
 
 Install required packages:
 
@@ -42,7 +42,7 @@ streamlit run app.py
 
 Select a book title — the system recommends similar audiobooks from the dataset.
 
-📊 Key Features
+## 📊Key Features
 
 Visual dashboards of audiobook data
 
